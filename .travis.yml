@@ -1,0 +1,8 @@
+language: ruby
+ruby:
+ - "2.7"
+script:
+ - ruby hello.rb
+os: linux
+group: stable
+dist: trusty
